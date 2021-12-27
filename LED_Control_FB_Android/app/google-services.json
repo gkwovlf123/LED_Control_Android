@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283994736901",
+    "firebase_url": "https://fb-webandroid-window-default-rtdb.firebaseio.com",
+    "project_id": "fb-webandroid-window",
+    "storage_bucket": "fb-webandroid-window.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283994736901:android:c1d0058daa0d3bb183cf6c",
+        "android_client_info": {
+          "package_name": "com.example.fd_led_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283994736901-dpq4qpdgf1kphei7eee23svlpqp9h3dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4XuI3OcP6X5YH2TEe7OMVTjHbI-ZroQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283994736901-dpq4qpdgf1kphei7eee23svlpqp9h3dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
